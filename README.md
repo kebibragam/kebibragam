@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kebibragam&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kebibragam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kebibragam&theme=dracula&hide_border=true)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kebibrgam&theme=dracula)](https://git.io/streak-stats)
 </div>
 
 ###
